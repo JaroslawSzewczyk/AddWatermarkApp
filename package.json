@@ -1,0 +1,12 @@
+{
+  "name": "AddWatermarkApp",
+  "version": "1.0.0",
+  "description": "Simple app that add a watermark to image",
+  "main": "app.js",
+  "repository": "https://github.com/JaroslawSzewczyk/AddWatermarkApp.git",
+  "author": "Jarosław Szewczyk <jaroslaw.szewczyk@tutanota.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.10.3"
+  }
+}
