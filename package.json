@@ -7,6 +7,7 @@
   "author": "Jarosław Szewczyk <jaroslaw.szewczyk@tutanota.com>",
   "license": "MIT",
   "dependencies": {
+    "inquirer": "^7.1.0",
     "jimp": "^0.10.3"
   }
 }
